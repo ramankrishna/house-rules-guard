@@ -1,0 +1,14 @@
+{
+  "name": "ramankrishna-house-rules-guard",
+  "description": "House Rules, a mod for Claude Code by Rama Krishna Bachu.",
+  "owner": {
+    "name": "Rama Krishna Bachu"
+  },
+  "plugins": [
+    {
+      "name": "house-rules-guard",
+      "source": "./",
+      "description": "Enforces your standing rules for Claude: no push to main, no force push, no surprise deletes or new dependencies."
+    }
+  ]
+}

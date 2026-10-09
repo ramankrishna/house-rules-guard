@@ -1,0 +1,25 @@
+{
+  "name": "house-rules-guard",
+  "displayName": "House Rules",
+  "icon": "./.claude-plugin/icon.svg",
+  "version": "0.1.0",
+  "description": "Enforces your standing rules for Claude: no push to main, no force push, no surprise deletes or new dependencies.",
+  "author": {
+    "name": "Rama Krishna Bachu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ramankrishna/house-rules-guard",
+  "repository": "https://github.com/ramankrishna/house-rules-guard",
+  "documentationUrl": "https://github.com/ramankrishna/house-rules-guard#readme",
+  "supportUrl": "https://github.com/ramankrishna/house-rules-guard/issues",
+  "privacyPolicyUrl": "https://github.com/ramankrishna/house-rules-guard/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/ramankrishna/house-rules-guard/blob/main/LICENSE",
+  "keywords": [
+    "mod",
+    "guard",
+    "git",
+    "safety",
+    "permissions"
+  ],
+  "types": "./types/index.d.ts"
+}
